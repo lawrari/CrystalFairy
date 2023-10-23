@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "mcmirea:crystal"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "CC ",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "item": "mcmirea:crystal_hoe"
+  },
+  "show_notification": true
+}

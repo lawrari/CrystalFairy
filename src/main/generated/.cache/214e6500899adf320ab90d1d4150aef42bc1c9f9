@@ -1,0 +1,5 @@
+// 1.20.2	2023-10-21T01:14:09.9318194	McMirea/Tags for minecraft:block
+2e0e71f7dbffea6202a4421d5c31de9f830d5f59 data\fabric\tags\blocks\needs_tool_level_5.json
+f83085d8bc480ed2ab3b2d2f23e151f12f4a179e data\minecraft\tags\blocks\mineable\pickaxe.json
+6c330982975c8241fc2d134d9b9fae8ff9ab62f0 data\minecraft\tags\blocks\needs_iron_tool.json
+744a165bb793547fb0db38bb8dacb4477edbcf99 data\minecraft\tags\blocks\needs_diamond_tool.json

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "mcmirea:crystal"
+    }
+  },
+  "pattern": [
+    "   ",
+    "C C",
+    "C C"
+  ],
+  "result": {
+    "item": "mcmirea:crystal_boots"
+  },
+  "show_notification": true
+}

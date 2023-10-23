@@ -1,0 +1,17 @@
+{
+  "item.mcmirea.crystal": "Crystal",
+  "item.mcmirea.crystal_pickaxe": "Crystal Pickaxe",
+  "item.mcmirea.crystal_axe": "Crystal Axe",
+  "item.mcmirea.crystal_shovel": "Crystal Shovel",
+  "item.mcmirea.crystal_hoe": "Crystal Hoe",
+  "item.mcmirea.crystal_sword": "Crystal Sword",
+  "item.mcmirea.crystal_helmet": "Crystal Helmet",
+  "item.mcmirea.crystal_chestplate": "Crystal Chestplate",
+  "item.mcmirea.crystal_leggings": "Crystal Leggings",
+  "item.mcmirea.crystal_boots": "Crystal Boots",
+
+  "block.mcmirea.crystal_block": "Crystal Block",
+  "block.mcmirea.crystal_ore": "Crystal Ore",
+
+  "itemgroup.mcmirea": "McMirea"
+}
